@@ -4,9 +4,9 @@
  
 
 </p>
-<p align="center"><h2 align="center"> Hi folks! 👋 </h2></center>
+<p align="center"><h2 align="center"> Heya Everyone! 👋 </h2></center>
 <samp><h3 align="center">An avid learner, a developer, problem solver and a researcher</h3></samp>
-<samp><p align="center">Hey I am <samp> Harshit</samp>, currently in my final year undergrad of Computer Engineering. An learner and explorer set out on to learn various technologies, currently working as Research Engineer !</p>
+<samp><p align="center">Hey I am <samp> Harshit Agarwal</samp>, currently in my final year undergrad of Computer Engineering. An learner and explorer set out on to learn various technologies, currently working as Research Engineer !</p>
 <h3 align="center">Let's talk 🤝</h4> 
 <p align="center"><samp >💬 Lets learn, discover and develop Artifical Intelligence and Deep Learning :)</samp></p>
 

@@ -1,3 +1,4 @@
+<bgcolor = "#25292e">
 <p align="center">
   <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="200px"></p>
 
